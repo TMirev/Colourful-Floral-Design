@@ -1,5 +1,5 @@
 # Colourful-Floral-Design
-Project OVerview:
+Project Overview:
 
 An example of combining turtle graphics with colour theory and circular repetitions.
 This project uses the Python Turtle module to simulate a colourful floral design through procedural graphics. 
